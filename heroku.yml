@@ -1,0 +1,5 @@
+build:
+  config:
+    KEY_SIZE_BITS: 2048
+  docker:
+    web: Dockerfilewq
